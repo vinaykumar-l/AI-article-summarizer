@@ -1,6 +1,6 @@
 # AI Article Summarizer with Vite and React
 
-![AI Article Summarizer](https://link.to/your-image)
+![AI Article Summarizer](./src/assets/ai-sum.jpeg)
 
 ## Overview
 
@@ -73,23 +73,3 @@ Here are a few examples of how the AI Article Summarizer can be used:
 1. Summarize news articles to get the main highlights quickly.
 2. Generate a summary of research papers to understand their key findings.
 3. Summarize blog posts or long articles to get the main points without reading the entire content.
-
-## Contributing
-
-Contributions to the AI Article Summarizer are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Acknowledgments
-
-The AI Article Summarizer was developed using the "Article Extractor and Summarizer" API from Rapid API. Special thanks to the developers of this API for providing such a useful tool.
-
-## Contact
-
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Now you have a stunning README.md customized for your AI Article Summarizer using Vite and React! Feel free to modify it further to suit your project's needs. Provide clear instructions, add screenshots, and make it as appealing as possible to attract users and contributors. Good luck with your project!
