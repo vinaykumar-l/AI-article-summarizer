@@ -36,8 +36,8 @@ To run the AI Article Summarizer locally, you need the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ai-article-summarizer.git
-cd ai-article-summarizer
+git clone git@github.com:vinaykumar-l/AI-article-summarizer.git
+cd AI-article-summarizer
 ```
 
 2. Install dependencies:
