@@ -29,7 +29,7 @@ To run the AI Article Summarizer locally, you need the following:
 
 - Node.js (version 14 or above)
 - npm (Node Package Manager)
-- A valid API key from Rapid API (URL: https://rapidapi.com/your-api-key)
+- A valid API key from Rapid API (URL: https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 
 ## Installation
 
